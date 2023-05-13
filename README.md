@@ -1,7 +1,6 @@
 # chattingApp
 
-A new Flutter project.
-
+A simple chat-app project using flutter and firebase.Integrated ChatBOT feature is also supported.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
